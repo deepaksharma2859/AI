@@ -1,5 +1,6 @@
 
-# AI
+
+## AI
 
 #TEXTBOOKS
 
@@ -20,3 +21,16 @@
 3)https://trello-attachments.s3.amazonaws.com/58d1b2366d7c8782010d0540/58d1b277a078cb3582d5bd36/3b66581091679177f6c76b6bc36e96ff/Grokking_Deep_Learning_v5_MEAP.pdf
 4)http://neuralnetworksanddeeplearning.com/
 5) Holy book- http://www.deeplearningbook.org/
+
+#fast.ai
+http://www.fast.ai/
+
+#Python Practice
+
+https://www.hackerrank.com/domains/python/py-introduction
+
+#Convolutional neural network
+
+http://cs231n.stanford.edu/
+
+
